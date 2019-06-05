@@ -1,0 +1,2 @@
+# weathersimplyapp
+Try api GET 
